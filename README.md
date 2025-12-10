@@ -15,9 +15,9 @@ Click on `https://cloud.r-project.org/` and select the appropriate package for y
 ```txt
 project/
 │── docs/         Documentation created by me
-|   |-- 0.md
+|   |── 0.md
 │── src/          src files
-|   |-- index.r
+|   |── index.r
 │── .gitignore
 │── README.md
 ```
