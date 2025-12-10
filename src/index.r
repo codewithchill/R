@@ -18,7 +18,7 @@ c("Hello", "World!", "I'm", "Swarnadeep")
 
 1997 > 2000
 
-names = c("Swarnadeep", "Sourav", "Jayed", "Iftekar", "Swarnadeep", "Iftekar")
+names <- c("Swarnadeep", "Sourav", "Jayed", "Iftekar", "Swarnadeep", "Iftekar")
 names == "Swarnadeep"
 
 head(names, n = 2)
