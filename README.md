@@ -10,6 +10,8 @@ Explain how someone can get started.
 Click on `https://cloud.r-project.org/` and select the appropriate package for your system...
 ```
 
+Also I use [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) for colored comments and better visibility.
+
 ## **Project Structure**
 
 ```txt
